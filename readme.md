@@ -6,8 +6,8 @@ Bashayer Alshehri (1 Aug, 2020)
 
 This data include about '1863721' records and 15 features.
 The feature are :
-duration_sec----->int64
-start_time----->object
+duration_sec  ----->  int64
+start_time  ----->  object
 end_time----->object
 start_station_id----->float64
 start_station_name----->object
