@@ -9,21 +9,21 @@ you can find the dataset here : https://www.lyft.com/bikes/bay-wheels/system-dat
 
 > This data include about '1863721' records and 15 features.
 The feature are :
-duration_sec  ----->  int64
-start_time  ----->  object
-end_time----->object
-start_station_id----->float64
-start_station_name----->object
-start_station_latitude----->float64
-start_station_longitude----->float64
-end_station_id----->float64
-end_station_name----->object
-end_station_latitude----->float64
-end_station_longitude----->float64
-bike_id----->int64
-user_type----->object
-bike_share_for_all_trip----->object
-Month----->object
+- duration_sec  ----->  int64
+- start_time  ----->  object
+- end_time----->object
+- start_station_id----->float64
+- start_station_name----->object
+- start_station_latitude----->float64
+- start_station_longitude----->float64
+- end_station_id----->float64
+- end_station_name----->object
+- end_station_latitude----->float64
+- end_station_longitude----->float64
+- bike_id----->int64
+- user_type----->object
+- bike_share_for_all_trip----->object
+- Month----->object
 Most variables numeric (int,float),but the variables 'start_time','end_time','start_station_name','end_station_name' ,'user_type','bike_share_for_all_trip','Month' are string.
 
 ## Summary of Findings
