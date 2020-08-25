@@ -3,7 +3,8 @@ Bashayer Alshehri (1 Aug, 2020)
 
 
 ## Dataset
-
+> - Ford GoBike System Data for 2018
+you can find the dataset here : https://www.lyft.com/bikes/bay-wheels/system-data
 This data include about '1863721' records and 15 features.
 The feature are :
 duration_sec  ----->  int64
