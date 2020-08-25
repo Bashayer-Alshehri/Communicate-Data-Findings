@@ -3,7 +3,7 @@ Bashayer Alshehri (1 Aug, 2020)
 
 
 ## Dataset
-> - Ford GoBike System Data for 2018
+> Ford GoBike System Data for 2018
 you can find the dataset here : https://www.lyft.com/bikes/bay-wheels/system-data
 
 
@@ -24,7 +24,7 @@ The feature are :
 - user_type----->object
 - bike_share_for_all_trip----->object
 - Month----->object
-Most variables numeric (int,float),but the variables 'start_time','end_time','start_station_name','end_station_name' ,'user_type','bike_share_for_all_trip','Month' are string.
+- Most variables numeric (int,float),but the variables 'start_time','end_time','start_station_name','end_station_name' ,'user_type','bike_share_for_all_trip','Month' are string.
 
 ## Summary of Findings
 
