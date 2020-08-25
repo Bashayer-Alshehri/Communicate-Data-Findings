@@ -29,20 +29,20 @@ The feature are :
 ## Summary of Findings
 
 > Univariate:
-- people using the bikes for a short-time durational trips (around 4.5 mins).
-- oct is the most month that people use bikes, the lowest month is jan.
-- the Subscriber is the most frequent than the customer.
+- People using the bikes for a short-time durational trips (around 4.5 mins).
+- October is the most month that people use bikes, the lowest month is January.
+- The Subscriber is the most frequent than the customer.
 
 > Bivariate:
 - There was a constant limit throughout the year and it was about 15,000 seconds.
 - June and July had the longest trips during those months.
 - November and December had fewer trips that lasted as long.
 - Almost all of the seasons were close to each other and most of the trips reached 24 mins.
-- The heatmap plot of numeric variables, there is lots of negative correlation and few strong correlation
+- The heatmap plot shows that there are lots of negative correlation and few strong correlation.
 
 > Multivariate:
-- customer through all of the months has longer trips duration than subscriber.
+- Customer through all of the months has longer trips duration than subscriber.
 - Sunday and Saturday in the first months of the year the rush time was approximate about 35 minute to 40 minute.
 
 ## Key Insights for Presentation
--  Sunday and Saturday in the first months of the year the rush time was approximate about 35 minute to 40 minute.
+> The heatmap plot shows that there are lots of negative correlation and few strong correlation. Sunday and Saturday in the first months of the year the rush time was approximate about 35 minute to 40 minute,October is the most month that people use bikes, the lowest month is January.
