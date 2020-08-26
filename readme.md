@@ -3,6 +3,13 @@
 
 ## Introduction :
 
+- Bay Wheels is a regional public bicycle sharing system in California's San Francisco Bay Area. It is operated by Motivate in a partnership with the Metropolitan Transportation Commission and the Bay Area Air Quality Management District.Bay Wheels is the first regional and large-scale bicycle sharing system deployed in California and on the West Coast of the United States. It was established as Bay Area Bike Share in August 2013. As of January 2018, the Bay Wheels system had over 2,600 bicycles in 262 stations across San Francisco, East Bay and San Jose.
+
+- In June 2017 the system was officially re-launched as Ford GoBike in a partnership with Ford Motor Company. After Motivate's acquisition by Lyft, the system was renamed to Bay Wheels in June 2019.The system is expected to expand to 7,000 bicycles around 540 stations in San Francisco, Oakland, Berkeley, Emeryville, and San Jose.
+
+- In this project I aim to practice Data Visualization which's an important step in Data Analysis, The Dataset that I used is the Ford GoBike System Data for 2018
+
+- you can find the dataset here : https://www.lyft.com/bikes/bay-wheels/system-data
 
 > This project was completed as part of Udacity's Data Analyst Nanodegree certification.
 
