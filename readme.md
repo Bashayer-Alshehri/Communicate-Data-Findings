@@ -1,7 +1,10 @@
 # (Ford GoBike System Data)¶
 > Bashayer Alshehri (1 Aug, 2020)
 
-This project was completed as part of Udacity's Data Analyst Nanodegree certification.
+## Introduction :
+
+
+> This project was completed as part of Udacity's Data Analyst Nanodegree certification.
 
 ## Dataset
 > Ford GoBike System Data for 2018
